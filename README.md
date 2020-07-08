@@ -4,6 +4,8 @@ A simple docker container for restic with the goal of supporting multiple archit
 
 Includes rclone to support rclone backends.
 
+Supports: linux/amd64, linux/arm64, linux/arm/v7, linux/arm/v6
+
 ## Building
 
 ```
